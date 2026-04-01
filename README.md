@@ -21,5 +21,6 @@ with monitoring, drift detection, and CI/CD.
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jai-prakash-data-scientist/)
+[!Portfolio](https://portfolio-xi-three-86.vercel.app/)
 
 💼 Open to **ML Engineer** and **Data Scientist** roles in Berlin
