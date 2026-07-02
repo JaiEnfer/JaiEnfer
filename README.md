@@ -36,6 +36,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [AI Merchant Copilot](https://github.com/JaiEnfer/ai-merchant-copilot) | Production-ready AI Merchant Copilot | Next.js · FastAPI · Gemini AI · PostgreSQL · Docker |
 | [AI Job Application Agent](https://github.com/JaiEnfer/ai-job-agent) | A real AI Job Application Agent for Germany | FastAPI · PostgreSQL · Playwright  · React · React Router |
 | [ML Monitoring System](https://github.com/JaiEnfer/ml-monitoring-system) | Production ML with drift detection, alerting & CI/CD | FastAPI · Evidently · Docker |
 | [MLOps Pipeline](https://github.com/JaiEnfer/mlops-diabetes-pipeline) | Full ML lifecycle: DVC, MLflow, FastAPI, CI | DVC · MLflow · Docker |
