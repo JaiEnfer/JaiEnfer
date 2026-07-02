@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/MLOps%20%26%20Production%20ML-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer%20Vision-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM%20%26%20RAG-orange?style=flat-square" />
