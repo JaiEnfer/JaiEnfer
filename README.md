@@ -19,13 +19,16 @@
 ## 🛠 What I Work On
 
 **MLOps & Deployment**
-`FastAPI` `Docker` `MLflow` `Evidently` `GitHub Actions` `DVC`
+`FastAPI` `Docker` `MLflow` `Evidently`  `CI/CD` `pytest` `Ruff`
 
 **ML & Deep Learning**
-`PyTorch` `scikit-learn` `MONAI` `ConvNeXt` `U-Net` `Grad-CAM`
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `MONAI` `ConvNeXt` `ResNet` `Grad-CAM`
 
-**LLM & Data**
-`FAISS` `Ollama` `LlamaIndex` `Kafka` `Python`
+**LLM & AI**
+`RAG` `LlamaIndex` `FAISS` `Ollama` `Gemini API` `Prompt Engineering` `AI Agents` `sentence-transformers`
+
+**Data & Backend**
+`Python` `SQL` `PostgreSQL` `SQLAlchemy` `Kafka` `Pandas` `NumPy` `Streamlit`
 
 ---
 
